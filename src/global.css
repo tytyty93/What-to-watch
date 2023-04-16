@@ -1,0 +1,15 @@
+body{
+    color:white;
+    font-family: Maximum Impact
+}
+
+/* LECTURE 51: Styling the scrollbar */
+::-webkit-scrollbar{
+    background:transparent;
+}
+
+/* LECTURE 51: Styling the scrollbar */
+::-webkit-scrollbar-thumb:horizontal{
+    background:rgba(0,0,0,0.61);
+    border-radius:10px
+}
