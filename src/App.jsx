@@ -88,7 +88,7 @@ export function App() {
           <div className="col-4"></div>
           <Logo
             img={logoImg}
-            title={"What to watch for Dinner"}
+            title={"Find shows for Teng Yao and Woan Yin"}
             subtitle={"Find a show you may like"}
           />
           <div className="col-md-12 col-lg-4">
